@@ -1,4 +1,6 @@
-# Blackjack Web App
+# Blackjack Web App & Console Game
+
+*(Converted from Console-based Python game to Full Stack Web App)*
 
 A professional web-based implementation of a Blackjack game using Python (Flask) and a modern Frontend.
 
@@ -11,7 +13,7 @@ A professional web-based implementation of a Blackjack game using Python (Flask)
     - `style.css`: Styling for a clean, casino-like look.
     - `script.js`: Handles communication with the backend.
 
-## 🚀 How to Run
+## 🚀 How to Run (Web Version)
 
 ### 1. Backend Setup
 1.  Navigate to the `backend` folder.
@@ -42,3 +44,21 @@ A professional web-based implementation of a Blackjack game using Python (Flask)
 ## 🛠 Tech Stack
 - **Backend**: Python 3, Flask
 - **Frontend**: HTML5, CSS3, JavaScript (Fetch API)
+
+---
+
+# 📜 Original Console Version Info
+
+Welcome to my **Blackjack Game**, built during the **100 Days of Code Challenge**.  
+Test your luck and skills against the dealer in this classic console card game!
+
+## ✨ Features Learned
+- Python **lists**, **loops**, and **functions**
+- Using the **random module** for card shuffling
+- Implementing game **logic and rules**
+- Simple **console UI design** with text and ASCII symbols
+- Input validation and user interaction handling
+
+## 📝 Author
+**Umer Liaqat**  
+GitHub: [https://github.com/urj2258](https://github.com/urj2258)

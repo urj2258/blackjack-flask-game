@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:5000";
+const API_URL = ""; // Relative path for deployment compatibility
 
 const dealerCardsDiv = document.getElementById("dealer-cards");
 const playerCardsDiv = document.getElementById("player-cards");
